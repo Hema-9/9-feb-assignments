@@ -1,0 +1,7 @@
+code:
+a=int(input("a value is"))
+b=int(input("b value is"))
+if(a>b):
+    print("a is big")
+else:
+    print("b is big")
