@@ -5,3 +5,7 @@ if(a>b):
     print("a is big")
 else:
     print("b is big")
+out put:
+a value is76
+b value is98
+b is big
